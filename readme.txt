@@ -19,13 +19,11 @@ FIRST Download
 8. Create a database with name bloodbank_db
 
 6. Import bloodbank_db.sql file(given inside the zip package in SQL file folder)
-
+  
 7.Run the script http:/bloodbank
 **LOGIN DETAILS** 
 
-Admin
-user: admin
-pass: admin123
+
 
 
 ****** https:1sourcecodr.blogspot.com ******
